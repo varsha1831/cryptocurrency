@@ -1,0 +1,9 @@
+blue color: #cce5ff
+
+API Key from CoinAPI:
+
+run this command at terminal window and plug in the value below in place of value: export API_KEY=value
+
+
+
+value: <your_key>

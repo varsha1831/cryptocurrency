@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quote
+{% endblock %}
+
+{% block main %}
+    <p>A {{ returned_symbol["name"] }} costs {{ returned_symbol["price"] | usd }}</p>
+{% endblock %}
